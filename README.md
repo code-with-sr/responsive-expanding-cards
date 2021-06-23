@@ -1,5 +1,5 @@
-### Responsive Pricing Card
-Beautiful responsive ui cards using HTML & CSS.
+### Responsive Expanding Cards
+Beautiful responsive expanding cards using HTML, CSS, and JavaScript
 
 Watch and learn at YouTube: https://youtu.be/5wMJzmCZTX4
 
